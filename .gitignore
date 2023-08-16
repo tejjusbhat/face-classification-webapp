@@ -1,0 +1,4 @@
+.DS_store
+*.env
+dataset
+node_modules
